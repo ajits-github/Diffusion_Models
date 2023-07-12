@@ -1,2 +1,2 @@
 # Diffusion_Models
-A learning experience with models like GANs
+An experience with building models like GANs with greyscale and multichannel images
